@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrvvpeng
 - 👀 I’m interested in singing.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently developing the P-Queue package.
 - 💞️ I’m looking to collaborate on optimization problems.
 - 📫 Email me: peng.wang@nus.edu.sg
 
